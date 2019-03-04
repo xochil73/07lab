@@ -1,15 +1,26 @@
 {
-  "name": "test-practice",
+  "name": "middlewear",
   "version": "1.0.0",
-  "description": "",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Xochil Squaglia",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xochil73/07lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xochil73/07lab/issues"
+  },
+  "homepage": "https://github.com/xochil73/07lab#readme"
 }
